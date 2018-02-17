@@ -1,0 +1,7 @@
+c:\users\charding\documents\visual studio 2017\Projects\MightyITPart2\MightyITPart2\bin\Debug\MightyITPart2.exe.config
+c:\users\charding\documents\visual studio 2017\Projects\MightyITPart2\MightyITPart2\bin\Debug\MightyITPart2.exe
+c:\users\charding\documents\visual studio 2017\Projects\MightyITPart2\MightyITPart2\bin\Debug\MightyITPart2.pdb
+c:\users\charding\documents\visual studio 2017\Projects\MightyITPart2\MightyITPart2\obj\Debug\MightyITPart2.csproj.CoreCompileInputs.cache
+c:\users\charding\documents\visual studio 2017\Projects\MightyITPart2\MightyITPart2\obj\Debug\MightyITPart2.exe
+c:\users\charding\documents\visual studio 2017\Projects\MightyITPart2\MightyITPart2\obj\Debug\MightyITPart2.pdb
+c:\users\charding\documents\visual studio 2017\Projects\MightyITPart2\MightyITPart2\obj\Debug\MightyITPart2.csprojResolveAssemblyReference.cache
